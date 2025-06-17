@@ -1,5 +1,5 @@
 # pyMeow-PatternScanIDA
-This is Python Script for Searching IDAPro Pattern Scan with Byte Searching and mask!!! Enjoy to use!!!
+This is Python Script for Searching IDAPro Pattern Scan!!! Enjoy to use!!!
 
 [Join To My Discord Server](https://discord.gg/U2P5Hrcq9C)
 
